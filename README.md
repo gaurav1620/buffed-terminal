@@ -1,5 +1,5 @@
 # aesthetic-env
-<img src="images/env.jpg" alt="drawing" width="300"/><br>
+<img src="images/env.jpg" alt="drawing" width="400"/><br>
 
 To get a aesthetic coding environment along with 1000+ customizations right into your terminal just execute the following line of code after cloning this repository.<br>
 ```
