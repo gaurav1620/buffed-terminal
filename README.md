@@ -17,6 +17,10 @@ $ bash script.sh
   - Tmux with a custom top bar which has time, battery, uptime and other icons.
   - Cat command will be syntax highlighted
   <br><br>
+#### How to customize more
+  - Customize your prompt and shell using the "fish_prompt" command. This will open a user friendly web based page to customize the shell.
+  - To customize vim, you need to edit the '.vimrc' file located in user folder.
+  - To further customize tmux edit the 'tmux.conf' and 'tmux.conf.local' files in the user folder.
 
 ![screenshot 1](images/1.png)<br><br>
 ![screenshot 2](images/2.png)<br><br>
