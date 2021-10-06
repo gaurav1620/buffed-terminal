@@ -40,5 +40,7 @@ echo 'set-option -g status-position top' >> /home/$username/.tmux.conf
 neofetch
 filget -f slant $username | lolcat
 
+echo "fish" >> ~/.bashrc
 echo "You need to manually open vim and execute ':PluginInstall' . Sorry for the incovenience but no other hack can be found for automating that right now!"
 echo "Also you need to log out and login again to see the Tmux theme."
+
